@@ -105,21 +105,6 @@ Install this project with:
 - Twitter: [@FerizadK](https://twitter.com/FerizadK)
 - LinkedIn: [Ferizad Kanafina](https://www.linkedin.com/in/ferizad-kanafina-b41061253/)
 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FUTURE FEATURES -->
-
-## 🔭 Future Features <a name="future-features"></a>
-
-
-- [ ] **Information**
-- [ ] **About**
-- [ ] **Singers**
-- [ ] **Contact**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
