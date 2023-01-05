@@ -608,10 +608,14 @@
     padding: 5px 0 5px 15px;
   }
 
+  .nav-grey a {
+    text-decoration: none;
+  }
+
   .nav-grey ul {
     align-items: center;
     display: flex;
-    font: normal 0.7rem Lato, sans-serif;
+    font: normal 1rem Lato, sans-serif;
     justify-content: space-between;
     list-style: none;
     width: 70%;
