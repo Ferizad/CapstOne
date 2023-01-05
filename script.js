@@ -72,4 +72,3 @@ spList.appendChild(spDiv);
     `;
   spDiv.appendChild(spCard);
 });
-
